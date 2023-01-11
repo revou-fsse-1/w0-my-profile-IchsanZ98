@@ -2,6 +2,7 @@
 
 > This is an assignment for "My Profile"
 <img align="right" style="margin-right: 30px" src="bongo_new.gif" height="150" alt="bongo"/>
+
 ## My Bio
 
 Hi, My name is Ichsan. Student of Revou FSSE Program. Im from Tabalong Regency, South Borneo. Currently working as a Back Office Staff of local government service agencies .
