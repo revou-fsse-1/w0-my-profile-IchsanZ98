@@ -52,6 +52,7 @@ I'm a beginner student in Full Stack Web Developer program, doesnt have any expe
    <footer>
     <h1>Footer</h1>
    </footer>
+  <body>
 </html>
 ```
 </details>
