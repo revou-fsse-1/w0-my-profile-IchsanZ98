@@ -1,13 +1,15 @@
 # Ichsan Zulfikar Profile
 
+![banner](/assets/banner.png)
+
 > This is an assignment for "My Profile"
-<img align="right" style="margin-right: 30px" src="bongo_new.gif" height="150" alt="bongo"/>
+<img align="right" style="margin-right: 30px" src="assets/bongo_new.gif" height="150" alt="bongo"/>
 
 ## My Bio
 
 Hi, My name is Ichsan. Student of Revou FSSE Program. Im from Tabalong Regency, South Borneo. Currently working as a Back Office Staff of local government service agencies .
 
-![Ichsan Zulfikar Photo](3x4_2.jpg)
+![Ichsan Zulfikar Photo](assets/3x4_2.jpg)
 
 I'm a beginner student in Full Stack Web Developer program, doesnt have any experience in the industry particular. My main goal is to finish the bootcamp program well and utilize the knowledge gained to make a better futures. 
 
@@ -19,14 +21,15 @@ I'm a beginner student in Full Stack Web Developer program, doesnt have any expe
 
 ## My Technical Skills
 
-1. Doesnt have any....(data entry, maybe?)
+1. VS Code
 
 ## My Favorite Websites
 
-| Name    | URL                   | Reason                         |
-| ------- | --------------------- | ------------------------------ |
-| Revou  | <https://revou.co/software-engineering>  | Friend Recommendations             |
-| GitHub  | <https://github.com>  | To Submit Assignments |     |
+| Name    | URL                                     | Reason                |
+| ------- | --------------------------------------- | --------------------- |
+| Google  | <https://www.google.com/>               | To Search anything    |
+| Revou   | <https://revou.co/software-engineering> | Friend Recommendations|
+| GitHub  | <https://github.com>                    | To Submit Assignments |
 
 ## My Code Examples
 <details>
@@ -52,7 +55,7 @@ I'm a beginner student in Full Stack Web Developer program, doesnt have any expe
    <footer>
     <h1>Footer</h1>
    </footer>
-  <body>
+  </body>
 </html>
 ```
 </details>
@@ -64,5 +67,22 @@ I'm a beginner student in Full Stack Web Developer program, doesnt have any expe
   color: #111;
   font-size: 1.2rem;
 }
+```
+</details>
+<details>
+<summary>JavaScript</summary>
+
+```js
+const text = "Hello World";
+console.log(text);
+```
+</details>
+</details>
+<details>
+<summary>TypeScript</summary>
+
+```js
+const text: string = "Hello World";
+console.log(text);
 ```
 </details>
